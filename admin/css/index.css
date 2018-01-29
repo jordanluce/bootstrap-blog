@@ -1,0 +1,52 @@
+.admin-content-con{
+	margin-top: 20px;
+	border-top: 4px #e7eace solid;
+	padding: 15px;
+	background-color: #fff;
+}
+
+.dashboard-left-cell{
+	padding-right: 5px;
+	border: 1px red solid;
+}
+
+.dashboard-right-cell{
+	padding-left: 5px;
+}
+
+.admin-content-con header{
+	border-bottom: 1px #eee solid;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+}
+
+.admin-content-con h5{
+	margin: 0px;
+	padding-top: 3px;
+}
+
+.text-link,.text-link:hover{
+	color: #C2C2C2;
+}
+
+.commenter-name-dash{
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.comment-head-dash{
+	margin-bottom: 6px;
+}
+
+.comment-dash{
+	margin-bottom: 5px;
+}
+
+.comment-date-dash{
+	color:#999;
+}
+
+#dashboard-con{
+	margin-bottom: 100px;
+}
+

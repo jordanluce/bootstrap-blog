@@ -1,0 +1,20 @@
+.content-inner .row .article-action a{
+color: #676a6c;
+border: 1px #eee solid;
+}
+
+.content-inner .row p{
+	margin-bottom: 0px;
+	font-size: 16px;
+	font-weight: 400;
+}
+
+.content-inner .row small{
+	font-size: 10px;
+	color: #bbb;
+}
+
+.status-padding{
+	padding-top: 10px;
+}
+

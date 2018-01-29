@@ -1,0 +1,17 @@
+.col-md-8 h1{
+	font-weight: bold;
+}
+
+.row a{
+	font-size: 18px;
+}
+
+
+.col-md-8 .row{
+	margin-bottom: 10px;
+}
+
+
+.date{
+	color: #ccc;
+}
